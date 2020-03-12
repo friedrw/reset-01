@@ -1,11 +1,11 @@
 package temadecasaaula01;
 
-public class Coleradodragao {
+public class Magias {
     String nome;
     double poder;
-    int custoDeMana;
+    double custoDeMana;
 
-    Coleradodragao(String nome, double poderDeAtaque) {
+    Magias(String nome, double poder, double custoDeMana) {
         this.nome = nome;
         this.poder = poder;
         this.custoDeMana = custoDeMana;

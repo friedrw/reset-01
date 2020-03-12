@@ -2,10 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="651d907e-2b73-4ce3-883c-d229180c0ed4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reset-01.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Calculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Comparador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicio03/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicio03/SituacaoAlunos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/temadecasaaula01/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/temadecasaaula01/Armas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/temadecasaaula01/Barbaro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/temadecasaaula01/Clerigo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/temadecasaaula01/Druida.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/temadecasaaula01/Feiticeiro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/temadecasaaula01/Guerreiro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/temadecasaaula01/Magias.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/temadecasaaula01/Mago.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/temadecasaaula01/PoderesDivinos.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.java" afterDir="false" />
     </list>
@@ -14,10 +24,20 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1YnzuD8M1KYj8A8niF1Xmi7hvMN" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -26,6 +46,48 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.App (1)">
+    <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="temadecasaaula01.App" />
+      <module name="reset-01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="temadecasaaula01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="App" />
+      <module name="reset-01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SituacaoAlunos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercicio03.SituacaoAlunos" />
+      <module name="reset-01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercicio03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App (1)" />
+        <item itemvalue="Application.App" />
+        <item itemvalue="Application.SituacaoAlunos" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -41,9 +103,33 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1583593372788">
+    <state x="453" y="65" key="#com.intellij.ide.util.MemberChooser" timestamp="1583610760918">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1583593372788" />
+    <state x="453" y="65" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1583610760918" />
+    <state width="1323" height="302" key="GridCell.Tab.0.bottom" timestamp="1584031535954">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="302" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584031535954" />
+    <state width="1323" height="302" key="GridCell.Tab.0.center" timestamp="1584031535954">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="302" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584031535954" />
+    <state width="1323" height="302" key="GridCell.Tab.0.left" timestamp="1584031535954">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="302" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584031535954" />
+    <state width="1323" height="302" key="GridCell.Tab.0.right" timestamp="1584031535954">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="302" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584031535954" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1584014785431">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1584014785431" />
+    <state x="379" y="0" width="607" height="728" key="find.popup" timestamp="1583606061845">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="0" width="607" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1583606061845" />
   </component>
 </project>
