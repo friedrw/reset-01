@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cfa47d44-e0d5-4c10-9c7b-ba5b92de6e9b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../src/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/temadecasaaula01/Dano.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/temadecasaaula01/HomemDeArmas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/temadecasaaula01/Personagem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../aula02/exercicio-aula-2/src/Turma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../aula02/exercicio-aula-2/src/exercicio1/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../aula02/exercicio-aula-2/src/exercicio1/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../aula02/exercicio2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../aula02/exercicio3-aula-02/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../aula02/exercicio3-aula-02/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../aula02/exercicio3-aula-02/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../aula02/exercicio3-aula-02/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../aula02/exercicio3-aula-02/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../aula02/exercicio3-aula-02/src/exercicio3/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../aula02/exercicio3-aula-02/src/exercicio3/Mercadinho.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../aula02/exercicio3-aula-02/src/exercicio3/Segmento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../aula02/exercicio3-aula-2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../aula02/exercicio3-aula-2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../aula02/exercicio3-aula-2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/temadecasaaula01/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Armas.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/temadecasaaula01/Arma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Barbaro.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/temadecasaaula01/Barbaro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clerigo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/temadecasaaula01/Clerigo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Druida.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/temadecasaaula01/Druida.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Feiticeiro.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/temadecasaaula01/Feiticeiro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Guerreiro.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/temadecasaaula01/Guerreiro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Magias.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/temadecasaaula01/Magia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mago.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/temadecasaaula01/Mago.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PoderesDivinos.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/temadecasaaula01/PoderDivino.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1ZH8YvggEckxsF65ox8lrDtz1tl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cfa47d44-e0d5-4c10-9c7b-ba5b92de6e9b" name="Default Changelist" comment="" />
+      <created>1584484709528</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584484709528</updated>
+    </task>
+    <servers />
+  </component>
+</project>

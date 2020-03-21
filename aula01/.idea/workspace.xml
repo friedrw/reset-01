@@ -2,13 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="651d907e-2b73-4ce3-883c-d229180c0ed4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/aula02exercicio01/Aereo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula02exercicio01/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula02exercicio01/Maritimo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula02exercicio01/Submarino.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula02exercicio01/Terrestre.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula02exercicio01/Veiculo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/temadecasaaula01/Classe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/temadecasaaula01/HomemDeArmas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/temadecasaaula01/HomemDeFés.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/temadecasaaula01/HomemDeMagias.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/temadecasaaula01/Personagem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temadecasaaula01/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temadecasaaula01/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temadecasaaula01/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula02/exercicio-aula-2/src/Turma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula02/exercicio-aula-2/src/exercicio1/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula02/exercicio-aula-2/src/exercicio1/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula02/exercicio2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula02/exercicio3-aula-02/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula02/exercicio3-aula-02/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula02/exercicio3-aula-02/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula02/exercicio3-aula-02/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula02/exercicio3-aula-02/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula02/exercicio3-aula-02/src/exercicio3/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula02/exercicio3-aula-02/src/exercicio3/Mercadinho.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula02/exercicio3-aula-02/src/exercicio3/Segmento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula02/exercicio3-aula-2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula02/exercicio3-aula-2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula02/exercicio3-aula-2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/reset-01/META-INF/reset-01.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temadecasaaula01/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/temadecasaaula01/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temadecasaaula01/Armas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/temadecasaaula01/Arma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temadecasaaula01/Barbaro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/temadecasaaula01/Barbaro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temadecasaaula01/Clerigo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/temadecasaaula01/Clerigo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temadecasaaula01/Druida.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/temadecasaaula01/Druida.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temadecasaaula01/Feiticeiro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/temadecasaaula01/Feiticeiro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temadecasaaula01/Guerreiro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/temadecasaaula01/Guerreiro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temadecasaaula01/Magias.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/temadecasaaula01/Magia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temadecasaaula01/Mago.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/temadecasaaula01/Mago.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temadecasaaula01/PoderesDivinos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/temadecasaaula01/PoderDivino.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,14 +51,15 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1YnzuD8M1KYj8A8niF1Xmi7hvMN" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -35,8 +68,15 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../aula02/exercicio3-aula-02" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Karoline\Documents\CWI Reset\reset-01\aula01\src" />
+    </key>
   </component>
   <component name="RunManager" selected="Application.App (1)">
     <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -94,37 +134,49 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="453" y="65" key="#com.intellij.ide.util.MemberChooser" timestamp="1584195034468">
+    <state x="453" y="65" key="#com.intellij.ide.util.MemberChooser" timestamp="1584625114353">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="453" y="65" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1584195034468" />
+    <state x="453" y="65" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1584625114353" />
     <state x="275" y="23" key="#toString()_Generation_Settings" timestamp="1584194941594">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="23" key="#toString()_Generation_Settings/0.0.1366.728@0.0.1366.728" timestamp="1584194941594" />
-    <state width="1323" height="302" key="GridCell.Tab.0.bottom" timestamp="1584033785911">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1584582177437">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="302" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584033785911" />
-    <state width="1323" height="302" key="GridCell.Tab.0.center" timestamp="1584033785911">
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1584582177437" />
+    <state width="1323" height="304" key="GridCell.Tab.0.bottom" timestamp="1584746750214">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="302" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584033785911" />
-    <state width="1323" height="302" key="GridCell.Tab.0.left" timestamp="1584033785911">
+    <state width="1323" height="304" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584746750214" />
+    <state width="1323" height="304" key="GridCell.Tab.0.center" timestamp="1584746750214">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="302" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584033785911" />
-    <state width="1323" height="302" key="GridCell.Tab.0.right" timestamp="1584033785911">
+    <state width="1323" height="304" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584746750214" />
+    <state width="1323" height="304" key="GridCell.Tab.0.left" timestamp="1584746750214">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="302" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584033785911" />
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1584185787567">
+    <state width="1323" height="304" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584746750214" />
+    <state width="1323" height="304" key="GridCell.Tab.0.right" timestamp="1584746750214">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1584185787567" />
+    <state width="1323" height="304" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584746750214" />
+    <state x="245" y="75" key="RollbackChangesDialog" timestamp="1584562228830">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="245" y="75" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1584562228829" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1584488123549">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1584488123549" />
     <state x="379" y="0" width="607" height="728" key="find.popup" timestamp="1583606061845">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="379" y="0" width="607" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1583606061845" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1584707667623">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1584707667623" />
   </component>
 </project>
